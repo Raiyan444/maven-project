@@ -1,5 +1,5 @@
 # Edited maven-project
-Source code for James Lee's Jenkins course.
+Source code for CG Jenkins course.
 
 Check out our Latest DevOps PDF book.
 
